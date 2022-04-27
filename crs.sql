@@ -83,12 +83,11 @@ CREATE TABLE `car` (
 --
 
 INSERT INTO `car` (`regno`, `model`, `make`, `model_year`, `mileage`, `category`) VALUES
-('UP 61 AX 0868', 'S Class', 'BMW', 2017, 25, 'Sedan'),
-('UP 63 AX 0868', 'swift', 'Maruti', 2017, 16, 'Sedan'),
-('UP 65 AX 0868', 'Estilo', 'Maruti', 2021, 15, 'Sedan'),
-('UP 65 AX 0869', 'Innova', 'Toyota', 2016, 22, 'SUV'),
-('UP 65 AX 0870', 'SX4', 'Maruti', 2014, 16, 'Sedan'),
-('UP 65 AY 0868', 'Estilo', 'Maruti', 2010, 16, 'Sedan');
+('MH 15 AX 0868', 'S Class', 'BMW', 2017, 25, 'Sedan'),
+('Mh 20 BX 6968', 'swift', 'Maruti', 2017, 16, 'Sedan'),
+('MH 01 CX 168', 'Estilo', 'Maruti', 2021, 15, 'Sedan'),
+('MH 44 DX 1869', 'Innova', 'Toyota', 2016, 22, 'SUV'),
+('MH 34 EF 0868', 'Estilo', 'Maruti', 2010, 16, 'Sedan');
 
 -- --------------------------------------------------------
 
